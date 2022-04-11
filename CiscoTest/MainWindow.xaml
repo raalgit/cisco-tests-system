@@ -1,0 +1,85 @@
+﻿<Window x:Class="CiscoTest.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CiscoTest"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800"
+        Name="MainWin">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="100" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <ScrollViewer Grid.Row="0">
+            <ListView Name="QuestionListForm">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <Grid>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="*" />
+                                <RowDefinition Height="auto" />
+                                <RowDefinition Height="*" />
+                            </Grid.RowDefinitions>
+                            <TextBox Grid.Row="0"
+                                       FontSize="18"
+                                     IsReadOnly="True"
+                                       FontWeight="Bold"
+                                       TextWrapping="Wrap"
+                                       MaxWidth="1000"
+                                       Text="{Binding Question}" />
+                            <Image Grid.Row="1" 
+                                   MaxWidth="500"
+                                   MaxHeight="500"
+                                   HorizontalAlignment="Left"
+                                   Visibility="{Binding ImageVisibility}" 
+                                   Source="{Binding Image}">
+                            </Image>
+                            <ListView Grid.Row="2" 
+                                      ItemsSource="{Binding Answers}" 
+                                      Visibility="{Binding MultiAnswereFormVisibility}">
+                                <ListView.ItemTemplate>
+                                    <DataTemplate>
+                                        <CheckBox Content="{Binding AnswereText}" 
+                                                  IsChecked="{Binding IsChecked}"/>
+                                    </DataTemplate>
+                                </ListView.ItemTemplate>
+                            </ListView>
+                            <ListBox Grid.Row="2" 
+                                     ItemsSource="{Binding Answers}" 
+                                     Style="{StaticResource RadioButtonList}"
+                                     Visibility="{Binding SingleAnswereFormVisibility}">
+                                <ListBox.ItemTemplate>
+                                    <DataTemplate >
+                                        <RadioButton Content="{Binding AnswereText}" 
+                                                     IsChecked="{Binding IsChecked}"
+                                                     Tag="{Binding Tag}" />
+                                    </DataTemplate>
+                                </ListBox.ItemTemplate>
+                            </ListBox>
+                        </Grid>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </ScrollViewer>
+        <StackPanel Grid.Row="1" Orientation="Horizontal">
+            <Button 
+                Width="200"
+                Height="100"
+                FontSize="18"
+                FontWeight="Bold"
+                Background="Black"
+                Foreground="White"
+                HorizontalAlignment="Left"
+                Margin="5"
+                Name="SendBtn"
+                Content="Отправить"
+                Click="SendBtn_Click"/>
+            <Label Name="TimerLbl" FontSize="20" />
+        </StackPanel>
+    </Grid>
+</Window>

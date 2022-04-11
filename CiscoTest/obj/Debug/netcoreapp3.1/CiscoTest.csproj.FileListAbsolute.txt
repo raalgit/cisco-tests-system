@@ -1,0 +1,49 @@
+F:\4курс\Сети\Tests\CiscoTest\CiscoTest\bin\Debug\netcoreapp3.1\CiscoTest.exe
+F:\4курс\Сети\Tests\CiscoTest\CiscoTest\bin\Debug\netcoreapp3.1\Images\Q1.png
+F:\4курс\Сети\Tests\CiscoTest\CiscoTest\bin\Debug\netcoreapp3.1\CiscoTest.deps.json
+F:\4курс\Сети\Tests\CiscoTest\CiscoTest\bin\Debug\netcoreapp3.1\CiscoTest.runtimeconfig.json
+F:\4курс\Сети\Tests\CiscoTest\CiscoTest\bin\Debug\netcoreapp3.1\CiscoTest.runtimeconfig.dev.json
+F:\4курс\Сети\Tests\CiscoTest\CiscoTest\bin\Debug\netcoreapp3.1\CiscoTest.dll
+F:\4курс\Сети\Tests\CiscoTest\CiscoTest\bin\Debug\netcoreapp3.1\CiscoTest.pdb
+F:\4курс\Сети\Tests\CiscoTest\CiscoTest\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+F:\4курс\Сети\Tests\CiscoTest\CiscoTest\obj\Debug\netcoreapp3.1\App.g.cs
+F:\4курс\Сети\Tests\CiscoTest\CiscoTest\obj\Debug\netcoreapp3.1\CiscoTest_MarkupCompile.cache
+F:\4курс\Сети\Tests\CiscoTest\CiscoTest\obj\Debug\netcoreapp3.1\CiscoTest_MarkupCompile.lref
+F:\4курс\Сети\Tests\CiscoTest\CiscoTest\obj\Debug\netcoreapp3.1\MainWindow.baml
+F:\4курс\Сети\Tests\CiscoTest\CiscoTest\obj\Debug\netcoreapp3.1\CiscoTest.g.resources
+F:\4курс\Сети\Tests\CiscoTest\CiscoTest\obj\Debug\netcoreapp3.1\CiscoTest.GeneratedMSBuildEditorConfig.editorconfig
+F:\4курс\Сети\Tests\CiscoTest\CiscoTest\obj\Debug\netcoreapp3.1\CiscoTest.AssemblyInfoInputs.cache
+F:\4курс\Сети\Tests\CiscoTest\CiscoTest\obj\Debug\netcoreapp3.1\CiscoTest.AssemblyInfo.cs
+F:\4курс\Сети\Tests\CiscoTest\CiscoTest\obj\Debug\netcoreapp3.1\CiscoTest.csproj.CoreCompileInputs.cache
+F:\4курс\Сети\Tests\CiscoTest\CiscoTest\obj\Debug\netcoreapp3.1\CiscoTest.dll
+F:\4курс\Сети\Tests\CiscoTest\CiscoTest\obj\Debug\netcoreapp3.1\CiscoTest.pdb
+F:\4курс\Сети\Tests\CiscoTest\CiscoTest\obj\Debug\netcoreapp3.1\CiscoTest.genruntimeconfig.cache
+F:\4курс\Сети\Tests\CiscoTest\CiscoTest\obj\Debug\netcoreapp3.1\Themes\RadioButtonList.baml
+F:\4курс\Сети\Tests\CiscoTest\CiscoTest\obj\Debug\netcoreapp3.1\App.baml
+F:\4курс\Сети\Tests\CiscoTest\CiscoTest\bin\Debug\netcoreapp3.1\Images\Q2.png
+F:\4курс\Сети\Tests\CiscoTest\CiscoTest\obj\Debug\netcoreapp3.1\CiscoTest.csproj.AssemblyReference.cache
+C:\Users\Ivan Pyzhyanov\Desktop\CiscoTest\CiscoTest\bin\Debug\netcoreapp3.1\CiscoTest.exe
+C:\Users\Ivan Pyzhyanov\Desktop\CiscoTest\CiscoTest\bin\Debug\netcoreapp3.1\Images\Q1.png
+C:\Users\Ivan Pyzhyanov\Desktop\CiscoTest\CiscoTest\bin\Debug\netcoreapp3.1\Images\Q2.png
+C:\Users\Ivan Pyzhyanov\Desktop\CiscoTest\CiscoTest\bin\Debug\netcoreapp3.1\CiscoTest.deps.json
+C:\Users\Ivan Pyzhyanov\Desktop\CiscoTest\CiscoTest\bin\Debug\netcoreapp3.1\CiscoTest.runtimeconfig.json
+C:\Users\Ivan Pyzhyanov\Desktop\CiscoTest\CiscoTest\bin\Debug\netcoreapp3.1\CiscoTest.runtimeconfig.dev.json
+C:\Users\Ivan Pyzhyanov\Desktop\CiscoTest\CiscoTest\bin\Debug\netcoreapp3.1\CiscoTest.dll
+C:\Users\Ivan Pyzhyanov\Desktop\CiscoTest\CiscoTest\bin\Debug\netcoreapp3.1\CiscoTest.pdb
+C:\Users\Ivan Pyzhyanov\Desktop\CiscoTest\CiscoTest\obj\Debug\netcoreapp3.1\CiscoTest.csprojAssemblyReference.cache
+C:\Users\Ivan Pyzhyanov\Desktop\CiscoTest\CiscoTest\obj\Debug\netcoreapp3.1\Themes\RadioButtonList.baml
+C:\Users\Ivan Pyzhyanov\Desktop\CiscoTest\CiscoTest\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Ivan Pyzhyanov\Desktop\CiscoTest\CiscoTest\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Ivan Pyzhyanov\Desktop\CiscoTest\CiscoTest\obj\Debug\netcoreapp3.1\CiscoTest_MarkupCompile.cache
+C:\Users\Ivan Pyzhyanov\Desktop\CiscoTest\CiscoTest\obj\Debug\netcoreapp3.1\CiscoTest_MarkupCompile.lref
+C:\Users\Ivan Pyzhyanov\Desktop\CiscoTest\CiscoTest\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\Ivan Pyzhyanov\Desktop\CiscoTest\CiscoTest\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Ivan Pyzhyanov\Desktop\CiscoTest\CiscoTest\obj\Debug\netcoreapp3.1\CiscoTest.g.resources
+C:\Users\Ivan Pyzhyanov\Desktop\CiscoTest\CiscoTest\obj\Debug\netcoreapp3.1\CiscoTest.AssemblyInfoInputs.cache
+C:\Users\Ivan Pyzhyanov\Desktop\CiscoTest\CiscoTest\obj\Debug\netcoreapp3.1\CiscoTest.AssemblyInfo.cs
+C:\Users\Ivan Pyzhyanov\Desktop\CiscoTest\CiscoTest\obj\Debug\netcoreapp3.1\CiscoTest.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Pyzhyanov\Desktop\CiscoTest\CiscoTest\obj\Debug\netcoreapp3.1\CiscoTest.dll
+C:\Users\Ivan Pyzhyanov\Desktop\CiscoTest\CiscoTest\obj\Debug\netcoreapp3.1\CiscoTest.pdb
+C:\Users\Ivan Pyzhyanov\Desktop\CiscoTest\CiscoTest\obj\Debug\netcoreapp3.1\CiscoTest.genruntimeconfig.cache
+C:\Users\Ivan Pyzhyanov\Desktop\CiscoTest\CiscoTest\bin\Debug\netcoreapp3.1\Microsoft.Xaml.Behaviors.dll
+C:\Users\Ivan Pyzhyanov\Desktop\CiscoTest\CiscoTest\obj\Debug\netcoreapp3.1\CiscoTest.csproj.CopyComplete
