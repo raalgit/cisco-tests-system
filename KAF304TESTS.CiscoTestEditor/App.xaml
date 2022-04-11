@@ -1,0 +1,15 @@
+﻿<Application x:Class="KAF304TESTS.CiscoTestEditor.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:KAF304TESTS.CiscoTestEditor"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="Themes/RadioButtonList.xaml"></ResourceDictionary>
+                <ResourceDictionary Source="Themes/CheckBox.xaml"></ResourceDictionary>
+                <ResourceDictionary Source="Themes/ListThemes2.xaml"></ResourceDictionary>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

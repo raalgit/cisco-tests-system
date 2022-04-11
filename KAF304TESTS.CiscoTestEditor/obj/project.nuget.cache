@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "o8NGXaHZKNKUBZqyW3/AGiLdmIXe7CqrhulENmR2uABZImF13xmr3wsHiSddcTMJag5qo7qkAfSuWu6r0udw5g==",
+  "success": true,
+  "projectFilePath": "F:\\4курс\\Сети\\Tests\\CiscoTest\\KAF304TESTS.CiscoTestEditor\\KAF304TESTS.CiscoTestEditor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ivanp\\.nuget\\packages\\sharpziplib\\1.3.3\\sharpziplib.1.3.3.nupkg.sha512",
+    "C:\\Users\\ivanp\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

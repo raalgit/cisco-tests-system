@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "c1fGQXHfTw6bQom0Tcj7Z2b3glnJ4w2wGW2SegMqOOIxQTx2t8IHZxpb1e2c7SZmmL8WyP13hXDOtbJD4TR0cg==",
+  "success": true,
+  "projectFilePath": "F:\\4курс\\Сети\\Tests\\CiscoTest\\KAF304TESTS.CiscoTest\\KAF304TESTS.CiscoTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ivanp\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512",
+    "C:\\Users\\ivanp\\.nuget\\packages\\sharpziplib\\1.3.3\\sharpziplib.1.3.3.nupkg.sha512",
+    "C:\\Users\\ivanp\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
