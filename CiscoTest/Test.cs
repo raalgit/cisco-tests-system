@@ -72,6 +72,11 @@ namespace CiscoTest
         /// </summary>
         public int Points { get; set; }
 
+        /// <summary>
+        /// Тип теста
+        /// </summary>
+        public int Type { get; set; }
+
 
         [JsonIgnore]
         public System.Windows.Visibility ImageVisibility { get; set; }

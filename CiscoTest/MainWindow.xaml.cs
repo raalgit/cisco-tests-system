@@ -47,21 +47,21 @@ namespace CiscoTest
             timer.Tick += Timer_Tick;
 
             startTime = DateTime.Now;
-            endTime = startTime.AddSeconds(20);
+            endTime = startTime.AddSeconds(10);
 
             timer.Start();
         }
 
         private void Timer_Tick(object sender, EventArgs e)
         {
-            double time = (endTime - DateTime.Now).TotalSeconds;
-            if (time <= 0)
+            var time = (endTime - DateTime.Now);
+            if (time.TotalSeconds <= 0)
             {
                 timer.Stop();
                 completedTest();
                 return;
             }
-            TimerLbl.Content = "Осталось времени: " + (int)time + " с.";
+            TimerLbl.Content = "Осталось времени: " + time.Hours + ":" + time.Minutes + ":" + time.Seconds;
         }
 
         private void MainWin_KeyDown(object sender, KeyEventArgs e)

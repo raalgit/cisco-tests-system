@@ -14,7 +14,8 @@
         ],
         "AnswersAmount":1,
         "CorrectAnswereIndexes":[3],
-        "Points":1
+        "Points":1,
+        "Type":0
     },
     {
         "QuestionNumber":2,
@@ -31,7 +32,8 @@
         ],
         "AnswersAmount":1,
         "CorrectAnswereIndexes":[2],
-        "Points":1
+        "Points":1,
+        "Type":0
     },
     {
         "QuestionNumber":27,
@@ -50,6 +52,7 @@
         ],
         "AnswersAmount":3,
         "CorrectAnswereIndexes":[0,4,5],
-        "Points":3
+        "Points":3,
+        "Type":0
     }
 ]
