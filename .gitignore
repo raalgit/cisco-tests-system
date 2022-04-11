@@ -1,0 +1,17 @@
+# spec files
+.suo
+.user
+.v1
+.v2
+.*
+!/.gitignore
+
+# build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Pp]ackages/
+[Pp]ackage/
+[Bb]in/
+[Ll]og/
